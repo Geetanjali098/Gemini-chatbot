@@ -1,6 +1,6 @@
 # Gemini-chatbot
 
-##Chat Application with Gemini API Integration
+Chat Application with Gemini API Integration -
 
 This script powers a web-based chat interface that interacts with Google's Gemini AI model (specifically the 1.5-flash version). The application provides a responsive chat experience with features like file uploads, typing animations, and theme customization.
 
