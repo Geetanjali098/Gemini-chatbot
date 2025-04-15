@@ -8,7 +8,7 @@ This script powers a web-based chat interface that interacts with Google's Gemin
 
 1. AI Integration: Connects to Google's Gemini API for generating responses to user queries, supporting both text and file inputs (including images).
 
-2.    Interactive UI Elements:
+2. Interactive UI Elements:
    - Real-time typing effect for bot responses
    - File upload capability with preview functionality
    - Light/dark theme toggle (persisted in localStorage)
